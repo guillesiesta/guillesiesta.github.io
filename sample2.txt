@@ -1,0 +1,59 @@
+
+<img src="formacion.jpg" alt="formacion.jpg">
+<img src="corto_logo.jpg" alt="corto_logo.jpg">
+<img src="mini.jpg" alt="mini.jpg">
+<img src="fondo.jpg" alt="fondo.jpg">
+<img src="POS_Rich_Card_2_GalaxyWatchActive.jpg" alt="POS_Rich_Card_2_GalaxyWatchActive.jpg">
+<img src="banner.png" alt="banner.png">
+<img src="whatsapp.jpg" alt="whatsapp.jpg">
+<img src="corona.jpg" alt="corona.jpg">
+<img src="proveedores.jpg" alt="proveedores.jpg">
+<img src="PRE_Rich_Card_2_SamsungGalaxyA20s.jpg" alt="PRE_Rich_Card_2_SamsungGalaxyA20s.jpg">
+<img src="TUDOCORONA.jpg" alt="TUDOCORONA.jpg">
+<img src="footer.png" alt="footer.png">
+<img src="logo.jpg" alt="logo.jpg">
+<img src="PRE_Rich_Card_3_motoG8Plus_jpeg_RESIZE.jpg" alt="PRE_Rich_Card_3_motoG8Plus_jpeg_RESIZE.jpg">
+<img src="gracias.jpg" alt="gracias.jpg">
+<img src="provision.jpg" alt="provision.jpg">
+<img src="bienestar.jpg" alt="bienestar.jpg">
+<img src="POS_Rich_Card_3_AmazonEchoDot3GeraçoAlexa.jpg" alt="POS_Rich_Card_3_AmazonEchoDot3GeraçoAlexa.jpg">
+<img src="banner2.jpg" alt="banner2.jpg">
+<img src="red.jpg" alt="red.jpg">
+<img src="index.html" alt="index.html">
+<img src="CONTROLE_Rich_Card_2_SamsungGalaxyA20s.jpg" alt="CONTROLE_Rich_Card_2_SamsungGalaxyA20s.jpg">
+<img src="PRE_Rich_Card_1_LGK40S.jpg" alt="PRE_Rich_Card_1_LGK40S.jpg">
+<img src="imagen1.jpg" alt="imagen1.jpg">
+<img src="CONTROLE_Rich_Card_3_motoG8Plus_jpeg.jpg" alt="CONTROLE_Rich_Card_3_motoG8Plus_jpeg.jpg">
+<img src="careta.jpg" alt="careta.jpg">
+<img src="imagen3.jpg" alt="imagen3.jpg">
+<img src="Story_.jpg" alt="Story_.jpg">
+<img src="vivo.jpg" alt="vivo.jpg">
+<img src="logo2.jpg" alt="logo2.jpg">
+<img src="CONTROLE_Rich_Card_1_LGK40S_RESIZE.jpg" alt="CONTROLE_Rich_Card_1_LGK40S_RESIZE.jpg">
+<img src="CONTROLE_Rich_Card_4_SamsungGalaxyFitE.jpg" alt="CONTROLE_Rich_Card_4_SamsungGalaxyFitE.jpg">
+<img src="team.jpg" alt="team.jpg">
+<img src="README.md" alt="README.md">
+<img src="CONTROLE_Rich_Card_1_LGK40S.jpg" alt="CONTROLE_Rich_Card_1_LGK40S.jpg">
+<img src="sample2.txt" alt="sample2.txt">
+<img src="POS_Rich_Card_1_SamsungGalaxyNote10_jpeg.jpg" alt="POS_Rich_Card_1_SamsungGalaxyNote10_jpeg.jpg">
+<img src="PRE_Rich_Card_5_GoogleNestMini_jpeg2_v2.jpg" alt="PRE_Rich_Card_5_GoogleNestMini_jpeg2_v2.jpg">
+<img src="bolsonaro.jpg" alt="bolsonaro.jpg">
+<img src="equipazo.jpg" alt="equipazo.jpg">
+<img src="first_image.jpg" alt="first_image.jpg">
+<img src="logo2_opt.jpg" alt="logo2_opt.jpg">
+<img src="MEUVIVO.JPG" alt="MEUVIVO.JPG">
+<img src="meu_vivo.jpg" alt="meu_vivo.jpg">
+<img src="POS_Rich_Card_4_GalaxyTABS5e.jpg" alt="POS_Rich_Card_4_GalaxyTABS5e.jpg">
+<img src="corto.jpg" alt="corto.jpg">
+<img src="add_files_to_index.py" alt="add_files_to_index.py">
+<img src="PRE_Rich_Card_4_SamsungGalaxyFitE.jpg" alt="PRE_Rich_Card_4_SamsungGalaxyFitE.jpg">
+<img src="imagen2.jpg" alt="imagen2.jpg">
+<img src="operation.jpg" alt="operation.jpg">
+<img src="LICENSE" alt="LICENSE">
+
+
+
+
+
+
+
